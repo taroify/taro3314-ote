@@ -24,8 +24,8 @@ export default function Index() {
 ```
 ### 在 weapp 上的效果
 
-<img src="https://raw.githubusercontent.com/taroify/taro3314-ote/main/ote-weapp.gif" width="300" />
+<img src="https://raw.githubusercontent.com/taroify/taro3314-ote/main/ote-weapp.gif" width="600" />
 
 ### 在 h5 上的效果
 
-<img src="https://raw.githubusercontent.com/taroify/taro3314-ote/main/ote-h5.gif" width="300" />
+<img src="https://raw.githubusercontent.com/taroify/taro3314-ote/main/ote-h5.gif" width="600" />
