@@ -22,5 +22,10 @@ export default function Index() {
   )
 }
 ```
-### 微信小程序的效果
+### 在 weapp 上的效果
 
+<img src="https://raw.githubusercontent.com/taroify/taro3314-ote/main/ote-weapp.gif" width="300" />
+
+### 在 h5 上的效果
+
+<img src="https://raw.githubusercontent.com/taroify/taro3314-ote/main/ote-h5.gif" width="300" />
